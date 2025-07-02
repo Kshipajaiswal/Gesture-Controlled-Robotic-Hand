@@ -90,7 +90,7 @@ The robotic hand is mounted with servo motors—one for each finger—and is con
 - IEEE Xplore papers on robotic prosthetics and servo actuation.
 - "Design and Control of Myoelectric Hands" – Journal of NeuroEngineering.
 - Adafruit documentation for flex sensors and servo interfacing.
-- Arduino reference documentation (https://www.arduino.cc/en/Reference/HomePage).
+- Arduino reference documentation.
 - Various open-source DIY robotic hand designs on Hackster and Instructables.
 
 

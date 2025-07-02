@@ -13,7 +13,6 @@ This project presents a low-cost, Arduino-based robotic hand that replicates hum
 8. [References](#references)  
 9. [Author](#author)
 
----
 
 ## Introduction
 
@@ -21,7 +20,6 @@ This project explores the development of a robotic hand that replicates human fi
 
 The robotic hand is mounted with servo motors—one for each finger—and is controlled by bending the fingers on a glove fitted with flex sensors. The system reads flex values, converts them to angles, and actuates the corresponding servos to match human hand motion.
 
----
 
 ## Objectives
 
@@ -30,7 +28,6 @@ The robotic hand is mounted with servo motors—one for each finger—and is con
 - Interface the system using Arduino UNO for real-time control.  
 - Test accuracy and responsiveness in real-time conditions.  
 
----
 
 ## Tools & Technologies
 
@@ -41,7 +38,6 @@ The robotic hand is mounted with servo motors—one for each finger—and is con
 - **Glove** – Worn on hand to carry the sensors.  
 - **PLA or Foamboard** – Used to fabricate the robotic hand frame.  
 
----
 
 ## System Overview
 
@@ -57,7 +53,6 @@ The robotic hand is mounted with servo motors—one for each finger—and is con
 3. PWM signal sent to servo motor  
 4. Servo rotates the corresponding robotic finger  
 
----
 
 ## Methodology
 
@@ -67,7 +62,6 @@ The robotic hand is mounted with servo motors—one for each finger—and is con
 - Calibrated sensor values to specific angles for accurate finger movement replication  
 - Mapped sensor bending to servo rotation (0°–180°)
 
----
 
 ## Results & Observations
 
@@ -80,7 +74,6 @@ The robotic hand is mounted with servo motors—one for each finger—and is con
   - Limited grip types.
   - Requires careful glove fit for accuracy.
 
----
 
 ## Future Scope
 
@@ -91,7 +84,6 @@ The robotic hand is mounted with servo motors—one for each finger—and is con
 - Improve **grip strength** and design with more robust materials.
 - Use **AI/ML** to classify hand gestures and improve adaptability.
 
----
 
 ## References
 
@@ -101,7 +93,6 @@ The robotic hand is mounted with servo motors—one for each finger—and is con
 - Arduino reference documentation (https://www.arduino.cc/en/Reference/HomePage).
 - Various open-source DIY robotic hand designs on Hackster and Instructables.
 
----
 
 ## Author
 
